@@ -37,11 +37,11 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [hitesh tg helper](http://t.me/teamtghelper)
+- 👨‍💻 All of my projects are available at [ Team voltrons ](https://t.me/Voltrons)
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
-- 📫 How to reach me **hiteshsutharclg@gmail.com**
+- 📫 You can meet me on telegram [Hitesh Voltrons](https://t.me/TheVoltrons)
 
 - ⚡ Fun fact **I think I'm funny**
 
