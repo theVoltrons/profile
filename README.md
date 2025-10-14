@@ -37,7 +37,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [hitesh tg helper](http://t.me/teamtghelper)
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
